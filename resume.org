@@ -1,130 +1,147 @@
-Include PIM and last FITREP
+* Notes
+ - pick a tense
+ - Action verbs
+ - 1 page
+ - clear language
 * Work Experience
 ** US Navy Cryptologic Warfare Officer MAY 2012 - DEC 2016
 *** NIOC Hawaii DEC 2013 - DEC 2016
-**** Direct Support Officer Sub-Surface
-  + Led teams of 15 sailors form five cryptologic rates on unconventional missions.
-  + Managed certification and maintenance of cryptologic equipment.
-  + Reported directly to the Commanding Officer.
-  + Built and presented daily operations and intelligence briefs.
-  + Provided wardroom and crew training on intelligence and cryptologic.
-  + Supervised creation of technical logs and data packages.
-  + Wrote and contributed to detailed mission reports.
-  + Acted independently as only onboard officer from the Information Warfare Comunity.
-  + Integrated into wardroom and crew of six submarines.
-  + One of eight qualified DSOs in Pacific Fleet.
+**** Direct Support Officer Sub-Surface - Primary Duty
+ - Organized and executed four operational deployments and twelve training missions on six seperate ships.
+ - Managed daily operations of 15 sailors and six equipment racks.
+ - Created platform's daily plans as one of five Department Heads at sea.
+ - As sole Intelligence Officer in a radio-silent environment, evaluated priorities and threats  to determine mission goals.
+ - Produced detailed reports and data packages viewed by high ranking officials including Chief of Naval Operations and the President.
 **** Direct Support Officer Evaluator
-  - Recognized as an experianced expert by Pacific Submarine Command and Cyber Fleet.
-  - Trained and evaluated junior Direct Support Officers.
-  - Advised Pacific Submarine Command on readiness for deployment of teams and equipments.
-  - One of three qualified DSO Evaluators in Pacific Fleet.
+I was selected by Command Cyber Fleet to integrate with teams sent by Pacific Fleet to evaluate readiness of submarines for deployment. My role was to advise PACFLT on the performance and integration of the team and equipment sent by CYBERFLT to support the boat.
 **** Battle Watch Captain
-  - Managed watch team of 9 sailors from four cryptologic rates for 12 hour shifts.
-  - Directly integrated with multiple Navy Fleets, the National Security Agency, and the wider Intelligence Community to provide deployed Naval Units with up to date intelligence and threat warning.
-  - Acted independently as senior officer in the building.
-  - Built and presented Daily Operations Brief to the Commanding Officer of NIOC Hawaii
-  - Represented command by briefing a daily update to the Commander of US Cyber Fleet (three star Admiral)
+The BWC leads a team of 9 sailors who serve as the connection between the deployed ships, aircraft, and other naval assets, and the greater US Intelligence Community. Through formal briefs and reports, informal teleconferences, phone calls, emails, and in person conversations, we distributed information around this network either by request or proactively.
 **** Division Officer
-  - Managed administration, training, and readiness of division of over 50 sailors.
-  - Provided manning for dynamic deployment schedules.
+While not deployed I would be responcible for the management of one or more divisions of approximently 40 sailors. I oversaw thier training and administrative functions on a daily basis and scheduled deployment cycles based on available manning.
 **** Additional Duties
 ***** Acting Department Head
-  - Primary choice to fill in durring my surpervisors absences.
-  - Managed five divisions totalling over 400 sailors.
-  - Reported directly to the Commanding Officer.
+In a department of 20 officers, I was the primary substitute for my Department Head during any leave or other absenses. I would be responcible for over 400 sailors and reporting directly to the Commanding Officer.
 ***** Departmental Inspection Coordinator
-  - Selected to prepare Department for annual inspection by Commanding Officer.
-  - Identified and put in place processses to fix systemic issues within Department.
-  - Created and presented multi-month plan to fix remaining issues.
+I was selected to evaluate wellbeing of the entire structure and organization. Through this I designed and implemented new policies and practices while establishing new internal duties and selecting sailors to fill them.
 ***** Qualification Board Chair/Member (officer/enlisted)
-  - Final approving authority on enlisted operational qualifications.
-  - Advised Commanding Officer on approval of all levels of officer qualifications.
-***** Completed four intensive self directed qualification programs.
-  - Information Warfare Community Officer
-    - 3 year program
-    - 3 oral boards
-    - 1 test
-  - Direct Support Officer
-    - 2 oral boards
-    - 2 training deployments
-  - Cryptologic Warfare Officer
-    - 18 month program
-    - 2 oral boards
-    - 11 briefs
-  - Battle Watch Captain
-    - 2 oral boards
-    - 3 months training
-***** NSA/NIOC Hawaii Tours and Briefs to Admirals, Staff Officers, and other VIPs.
-***** Departmental representative for meetings with outside agencies and commands
-  - Coordinated operational efforts and information sharing with NSA and Navy Cyber Teams.
-  - Advised Center for Information Dominance on departmentwide training needs.
-  - Advised Commander of Submarine Pacific Fleet and staff on integration and use of Direct Support Teams.
-  - Advised Commander of Cyber Fleet on future equipment and training needs for the Direct Support Subsurface program.
+On lower level boards, I acted as the final say of qualification. On higher level boards, I advised our Commanding Officer on the same decision. In this capacity I dedicated much of my time to the training of individuals who would be 
+***** Completed four intensive qualification programs.
+Training is self-driven while working on primary duties and culminates in an oral board presented to senior officers. I completed Battle Watch Captain (3 months), Cryptologic Warfare Officer (18 months), Direct Support Officer (2 deployments), and Information Warfare Community Officer (3 years).
+***** Department/Command Representative
+Routinely selected to represent the command either as primary or to support as technical expert on operations and equipment. I gave NSA/NIOC Hawaii tours and briefs to Admirals, Staff Officers, and other VIPs. Additionally, I represented my department and command in meetings with entities that either supported or depended on our operations.
 *** Various Training Commands and Temporary Duties MAY 2012 - DEC 2013
+Before arriving at NIOC Hawaii, I worked at multiple training commands leading such varied experiences as remodeling a wardroom, learning spanish, and leading a parade.
 **** Information Warfare Officer Basic Course, Pensacola, FL
 **** Naval Facilities Command South East, Panama City, FL
 **** Defense Language Institute, Monterey, CA
 **** NROTC Temporary Duty, Boston, MA
-  - Chosen to manage 19 other Junior Officers in building renovation efforts.
+** Pre-Navy
+*** Automotive Lift Technician
+**** Viking Equipment, Deep River, CT
+*** Sailing Instructor
+**** Sail Newport Adult Instructor
+**** Sail Newport Childrens Instructor
+**** Pettipaug Sailing Accademy Childrens Instructor
 * Education
 ** Boston University 
 *** BS Mechanical Engineering, May 2012
 ** Defense Language Institute
 *** AA Spanish, April 2013
-* Additional Activities
-** BUILDS Makerspace
-** BU Rocket Team
-** BU Navy Reserve Officer Corps
-* Interests
-** Travel
- - XX Countries
-   - USA
-   - Mexico
-   - Belieze
-   - Costa Rica
-   - Ireland
-   - Japan
-   - Malaysia
-   - Phillipines
-   - Singapore
-   - Australia
-   - New Zealand
-   - Quatar
-   - Spain
-   - and more
- - Planning
- - Adaptability and resourcefullness
- - Budgeting
-** Hiking/Biking
-** Sailing
-** Programming
-** Electronic Circuit Design
-** Reading
-* References
-** CAPT Gagnon - CO NIOC Hawaii
- - Wrote a great final fitrep for me
-   - I have that
-** CDR Answeuw - CO USS GREENEVILLE
- - Wrote a great evaluation of me
-   - I have that
- - My final trip
-** LCDR Woods - Direct Support Subsurface Department Head
- - Thought very well of me
-** LCDR Sellen - Former Direct Support Ops Manager
- - My highest ranking friend who has seen me work
-** CWO3 Neibauer - Direct Support Training Officer
- - Deployed with me on my second training ride
-** LT Pettus - Senior DSO
- - Acted as my evaluator once
-* Possible help
- - Jim Stone
-   - Entrepenuer, boston thilathropist, cyber crime expert
-   - Heavily involved in BUILDS Makerspace
-   - Haven't talked to him in a while, but he probably has good contacts
- - Ciera's mom
-   - Friend's mom involved in a sucessful start up
- - Eric Offenberg
- - Dad
+* Hard Skills
+** Software
+   I pick up computer programs very quickly. Usually I can learn compentancy of a new program within an hour and master it within a day.
+ - Excel
+   - Macros
+   - Scripting
+   - Charts
+   - Pivot Tables
+ - Word
+ - Powerpoint
+ - Windows/OSX/Linux
+ - Emacs
+ - VIM
+ - GIT
+ - Many more
+** CAD
+ - Solidworks
+ - EagleCAD
+** Programming & Networks
+   I'm not a software developer, but I can write a program to solve a problem or automate a common task.
+ - MATLAB
+ - Python
+   - MATPLOTLIB
+   - SciPy
+   - Panda
+   - PyPlot
+ - LaTex
+ - Javascript
+   - NodeJS
+   - NPM
+   - Express
+   - Angular
+   - Mongoose
+ - BASH
+ - SSH
+ - C/C++
+ - HTML/CSS
+ - Bootstrap
+ - PHP/MySQL
+ - HTTP
+ - LAMP Server
+ - MEAN Server
+ - PGP
+** Electronics
+   Only basic skills, but occasionally useful for some problem solving.
+ - Simple circuit design
+ - Soldering
+ - Microprocessors
+   - Arduino
+   - Rasberry PI
+ - DC Motors
+** Machining and Building
+   Mostly remodeling our house as a kid.
+ - Metalwork
+ - CNC, Lathe, Press
+ - Woodwork
+ - Simple construction
+** Mathmatics/Engineering
+ - Statistics
+ - Calculus
+ - Differential Equations
+ - Statics
+ - Dynamics
+ - Mechanics of Materials
+ - Fluid Dynamics
+ - Thermodynamics
+* Soft Skills
+** Operational Planning
+   Ran daily operations briefs and planning councils for multiple military commands.
+   Tactical advisor to Commanding Officers in information scarce environments.
+ - Scheduling
+ - Manning
+ - Budgetting
+ - Setting guidelines
+ - Risk mitigation
+ - Resource Management
+ - Deliverable Management
+** Collaboration
+   Worked as part of countless diverse team of various sizes throughout time as a Naval Officer
+   Regular integrated with officers and crews of submarines in situations which required collaborative planning within hours of stepping on board.
+ - Followership
+ - Teamwork
+** Leadership and Management
+   Operational and administrative leader to countless service men and women.
+   Routinely selected for increased responcibility.
+ - Deligate
+ - Run and effective meeting
+** Communication
+   Comfortable speaking to and engaging with groups any size or rank.
+ - Public Speaking
+ - Building slides
+ - Writing
+** Fast Learning
+   I pick up knew skills quickly.
+** Time Management
 * Supporting documents
 ** FITREPS
  - Include all and maybe some note on how to read them.
