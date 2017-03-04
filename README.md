@@ -15,7 +15,7 @@ _April 2013_ Monterey, CA
 --------------------------------------------
 ## Experience
 
-For more information on my specific duties, [download my full resume](/hire).
+For more information on my specific duties, [download my full resume](rshom.github.io/hire).
 
 ### Cryptologic Warfare Officer
 **Navy Information Operations Command and Other** _2012-2016_ Pearl Harbor, HI
