@@ -12,7 +12,7 @@
 % IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
 %
 % This template uses several fonts not included with Windows/Linux by
-% default. If you get compilation errors saying a font is missing, find the line
+% default. If you get compilatio errors saying a font is missing, find the line
 % on which the font is used and either change it to a font included with your
 % operating system or comment the line out to use the default font.
 % 
@@ -66,7 +66,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Russell}{Shomberg}{ \urlstyle{same}\href{http://russellshomberg.com}{russellshomberg.com} | 203.376.9329 | \href{mailto:russellshomberg@gmail.com}{russellshomberg@gmail.com}
+\namesection{Russell}{Shomberg}{ \urlstyle{same}\href{http://shomberg.org}{http://shomberg.org} | 203.376.9329 | \href{mailto:russell@shomberg.org}{russ@shomberg.org}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -170,7 +170,7 @@ Experienced in producing detailed solutions from imprecise directions.\\
 
 \location{Teamwork and Leadership}
 Regularly integrated into diverse teams of all sizes for various missions. \\
-Acted as operational and administrative leader to countless service men and women. \\
+Acted as operational and administrative leader to countless service members. \\
 \sectionsep
 
 \location{Communication}
@@ -200,10 +200,10 @@ Experienced in professional writing and slide creation. \\
 \location{August 2014 - December 2016 | Pacific Fleet}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Four operational deployments and 12 training missions on six separate ships.
+\item Four operational deployments and 12 training missions on six ships.
 \item Managed 15 sailors and six equipment racks from preparations to post mission reporting.
 \item Responsible for determining mission objectives and risk mitigation based on limited information.
-\item Integrated in team of 4 Department Heads, responsible for all operational planning.
+\item One of four Department Heads, responsible for all operational planning.
 \item Produced detailed post-mission reports and data packages.
 \item Selected by Cyber Fleet to evaluate submarines and Information Warfare Teams for deployment readiness. 
 \end{tightemize}
@@ -213,7 +213,7 @@ Experienced in professional writing and slide creation. \\
 \descript{| Division Officer}
 \location{August 2014 – December 2016 | NIOC Hawaii}
 \begin{tightemize}
-\item Responsible for management of one of more divisions of approximately 40 sailors.
+\item Responsible for management of multiple divisions of over 40 sailors.
 \item Oversaw daily training and administrative functions.
 \item Scheduled deployment cycles based on available manning.
 \end{tightemize}
@@ -236,8 +236,8 @@ Experienced in professional writing and slide creation. \\
 \begin{tightemize}
 \item Led team of 9 sailors responsible for providing threat warning and time relevant intelligence reporting to forward deployed ships and aircraft.
 \item Proactively distributed information through intelligence and operational networks through formal briefs and reports, informal teleconferences, phone calls, emails, and in-person conversations.
-\item Provided NIOC Hawaii's Commanding Officer a daily hour long Operations Brief.
-\item Represented command in daily conference with the Commander of Cyber Fleet.
+\item Provided NIOC Hawaii's Commanding Officer a daily Operations Brief.
+\item Represented commanding officer in daily conference with the Commander of Cyber Fleet.
 \end{tightemize}
 \sectionsep
 
