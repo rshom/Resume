@@ -1,0 +1,245 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilatio errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{deedy-resume}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\rfoot{Page \thepage \hspace{1pt}}
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Russell}{Shomberg}{ \urlstyle{same}\href{http://shomberg.org}{http://shomberg.org} | 203.376.9329 | \href{mailto:russ@shomberg.org}{russ@shomberg.org}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\include{education}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links}
+
+\include{links}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% \section{Coursework}
+%% \include{coursework}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+% consider bolding skills the job offer requests
+
+\subsection{Technical}
+
+\include{skillsTechnical}
+
+
+\subsection{Professional}
+
+\include{skillsProfessional}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  
+\section{Experience}
+After serving five years in the Navy, reaching the rank of Lieutenant, and fully qualifying as a Information Warfare Officer, I requested separation to pursue a career in engineering. I am currently seeking a job to jump-start such a career.\\
+
+\runsubsection{Multiple US Submarines}
+\descript{| Intelligence Officer }
+\location{August 2014 - December 2016 | Pacific Fleet}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Four operational deployments and 12 training missions on six ships.
+\item Managed 15 sailors and six equipment racks from preparations to post mission reporting.
+\item Responsible for determining mission objectives and risk mitigation based on limited information.
+\item One of four Department Heads, responsible for all operational planning.
+\item Produced detailed post-mission reports and data packages.
+\item Selected by Cyber Fleet to evaluate submarines and Information Warfare Teams for deployment readiness. 
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Subsurface Ops Department}
+\descript{| Division Officer}
+\location{August 2014 – December 2016 | NIOC Hawaii}
+\begin{tightemize}
+\item Responsible for management of multiple divisions of over 40 sailors.
+\item Oversaw daily training and administrative functions.
+\item Scheduled deployment cycles based on available manning.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Subsurface Ops Department}
+\descript{| Department Action Officer}
+\location{August 2014 – December 2016 | NIOC Hawaii}
+\begin{tightemize}
+\item Primary substitute for Department Head during leave of other absences responsible for over 400 sailors.
+\item Selected to perform internal inspection. Designed and implemented correctional policies.
+\item Routinely selected to represent department or command for meetings and briefs with to Admirals, Staff Officers, and other VIPs.
+\item Provided training and evaluated qualifications of enlisted and more junior officers throughout command.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Fleet Information Ops Center}
+\descript{| Battle Watch Captain }
+\location{December 2013 – August 2014 | NIOC Hawaii}
+\begin{tightemize}
+\item Led team of 9 sailors responsible for providing threat warning and time relevant intelligence reporting to forward deployed ships and aircraft.
+\item Proactively distributed information through intelligence and operational networks through formal briefs and reports, informal teleconferences, phone calls, emails, and in-person conversations.
+\item Provided NIOC Hawaii's Commanding Officer a daily Operations Brief.
+\item Represented commanding officer in daily conference with the Commander of Cyber Fleet.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Temporary Duty Stations}
+\descript{| Cryptologic Warfare Officer}
+\location{May 2012 – December 2013 | Monterey, CA \& Panama City, FL \& Pensacola, FL}
+\sectionsep
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Professional Certifications
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Add a section here for professional certs
+% include Commissioned Officer in US Navy Reserves
+% Security clearance
+
+% go get
+%% PMP
+%% FE
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% \section{Research}
+%% \runsubsection{Cornell Robot Learning Lab}
+%% \descript{| Researcher}
+%% \location{Jan 2014 – Jan 2015 | Ithaca, NY}
+%% Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+%% \sectionsep
+
+%% \runsubsection{Cornell Phonetics Lab}
+%% \descript{| Head Undergraduate Researcher}
+%% \location{Mar 2012 – May 2013 | Ithaca, NY}
+%% Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+%% \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% \section{Awards} 
+%% \begin{tabular}{rll}
+%% 2014	     & top 52/2500  & KPCB Engineering Fellow\\
+%% 2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
+%% 2013	     & National  & Jump Trading Challenge Finalist\\
+%% 2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
+%% 2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
+%% 2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
+%% \end{tabular}
+%% \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% \section{Publications} 
+%% \renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+%% \bibliographystyle{abbrv}
+%% \bibliography{publications}
+%% \nocite{*}
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}

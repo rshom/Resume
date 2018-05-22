@@ -1,0 +1,87 @@
+\documentclass[10pt]{article}
+
+\usepackage[english]{babel}
+\usepackage[hmargin=.5in, vmargin = 0.8 in]{geometry}
+\pagestyle{empty}
+
+\usepackage[default]{lato}
+\usepackage{xcolor}
+\usepackage{enumitem}
+% Start of Document
+\begin{document}
+
+\begin{flushright}\fontsize{8pt}{10pt}
+  {\textcolor{gray}
+Last Updated on
+\today
+}
+\end{flushright}
+
+\begin{center}
+{\Huge{Russell J \textbf{Shomberg}}} \\
+{\textcolor{gray}
+{russellshomberg@gmail.com $\vert$ 203.376.9329 $\vert$ LinkedIn://russellshomberg}\\
+}
+\end{center}
+
+%% Column 1
+\begin{minipage}[t]{0.29\textwidth}
+
+%% Education
+{\textcolor{gray}
+{\Large  \uppercase{\textbf{Education}} }
+}
+\include{education}
+
+%% Coursework
+%% {\textcolor{gray}
+%% {\Large \uppercase{\textbf{Coursework}}} \hspace{.1cm} \sout{\hfill} \\[-.2cm]   
+%% }
+%% \include{coursework}
+
+
+%% Skills	
+{\textcolor{gray}
+{\Large \uppercase{\textbf{Technical Skills}}}
+}
+
+\include{skillsTechnical}
+
+{\textcolor{gray}
+{\Large \uppercase{\textbf{Professional Skills}}}
+}
+
+\include{skillsProfessional}
+
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.65\textwidth}
+
+%% Column 2
+
+%% Certifications
+{\textcolor{gray}
+{\Large \uppercase{\textbf{Certifications}}}
+}
+
+\include{certifications}
+
+%% Work Experience
+{\textcolor{gray}
+{\Large \uppercase{\textbf{Experience}}}
+}
+
+\include{experience}
+
+%% Awards
+%% {\textcolor{gray}
+%% {\Large \uppercase{\textbf{Awards}}} \hspace{.1cm} \sout{\hfill} \\[-.4cm]   
+%% }
+
+%% \small
+%%\include{awards}
+
+\end{minipage}
+
+\end{document}
